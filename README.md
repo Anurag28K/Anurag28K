@@ -4,6 +4,14 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag28k&label=Profile%20views&color=0e75b6&style=flat" alt="anurag28k" /> </p>
 
+- 🔭 I’m currently **studying Data Science & Big Data Analytics**
+
+- I’m looking to collaborations **on data science and big data analytics projects that fuse creative approaches with technical excellence to deliver impactful solutions.**
+
+- 🌱 I’m currently learning **Deep learning**
+
+- Ask me about **My Project**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Anurag28K?tab=repositories](https://github.com/Anurag28K?tab=repositories)
 
 - 📫 How to reach me **anuragram114@gmail.com**
